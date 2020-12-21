@@ -1,7 +1,8 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-	<title>Login V1</title>
+	<title>Ingreso a la plataforma</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -27,12 +28,12 @@
 		<div class="container-login100">
 			<div class="wrap-login100">
 				<div class="login100-pic js-tilt" data-tilt>
-					<img src="images/img-01.png" alt="IMG">
+					<img src="images/roller.jpg" alt="IMG">
 				</div>
 
 				<form class="login100-form validate-form">
 					<span class="login100-form-title">
-						Member Login
+						Inicio de sesion
 					</span>
 
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
